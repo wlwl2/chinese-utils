@@ -16,5 +16,9 @@
     "pinyin"
   ],
   "author": "William Lim",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {}
 }
