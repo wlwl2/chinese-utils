@@ -6,7 +6,7 @@ Pinyin in Node.js.
 ## Installation
 
 ```bash
-npm i pinyin --save
+npm i chinese-utils --save
 ```
 
 ## Usage
