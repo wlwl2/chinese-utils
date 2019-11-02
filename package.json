@@ -21,5 +21,6 @@
   "devDependencies": {
     "mocha": "^6.2.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "homepage": "https://github.com/wlwl2/chinese-utils"
 }
