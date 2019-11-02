@@ -15,8 +15,8 @@ npm i chinese-utils --save
 
 `ChineseUtils.pinyinToAlphabet(string)`
 
-Removes the tone marks from a Pinyin `string` (keeps the original case of the
-Pinyin and any spaces/whitespace). This is also known as accent folding.
+Removes the tone marks from a Pinyin `string` and keeps the original case of the
+Pinyin and any spaces/whitespace. This is also known as accent folding.
 
 Returns a `string` with just plain English and no tone marks (keeps the original
 case of the Pinyin).
