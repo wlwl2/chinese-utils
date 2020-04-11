@@ -1,6 +1,6 @@
 {
   "name": "chinese-utils",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Utility tools for working with simplified/traditional Chinese characters and Pinyin.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "author": "William Lim",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^7.1.1"
   },
   "dependencies": {},
   "homepage": "https://github.com/wlwl2/chinese-utils"
